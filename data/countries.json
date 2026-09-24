@@ -1,0 +1,454 @@
+[
+  {
+    "name": "France",
+    "code": "FR",
+    "continent": "Europe",
+    "pattern": [
+      ["blue", "blue", "white", "white", "white", "red", "red", "red"],
+      ["blue", "blue", "white", "white", "white", "red", "red", "red"],
+      ["blue", "blue", "white", "white", "white", "red", "red", "red"],
+      ["blue", "blue", "white", "white", "white", "red", "red", "red"],
+      ["blue", "blue", "white", "white", "white", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Italy",
+    "code": "IT",
+    "continent": "Europe",
+    "pattern": [
+      ["green", "green", "white", "white", "white", "red", "red", "red"],
+      ["green", "green", "white", "white", "white", "red", "red", "red"],
+      ["green", "green", "white", "white", "white", "red", "red", "red"],
+      ["green", "green", "white", "white", "white", "red", "red", "red"],
+      ["green", "green", "white", "white", "white", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Germany",
+    "aliases": ["deutschland"],
+    "code": "DE",
+    "continent": "Europe",
+    "pattern": [
+      ["black", "black", "black", "black", "black", "black", "black", "black"],
+      ["black", "black", "black", "black", "black", "black", "black", "black"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["gold", "gold", "gold", "gold", "gold", "gold", "gold", "gold"],
+      ["gold", "gold", "gold", "gold", "gold", "gold", "gold", "gold"]
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "code": "NG",
+    "continent": "Africa",
+    "pattern": [
+      ["green", "green", "green", "white", "white", "green", "green", "green"],
+      ["green", "green", "green", "white", "white", "green", "green", "green"],
+      ["green", "green", "green", "white", "white", "green", "green", "green"],
+      ["green", "green", "green", "white", "white", "green", "green", "green"],
+      ["green", "green", "green", "white", "white", "green", "green", "green"]
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "aliases": ["holland"],
+    "code": "NL",
+    "continent": "Europe",
+    "pattern": [
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"],
+      ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"]
+    ]
+  },
+  {
+    "name": "Poland",
+    "code": "PL",
+    "continent": "Europe",
+    "pattern": [
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Russia",
+    "aliases": ["russian federation"],
+    "code": "RU",
+    "continent": "Europe",
+    "pattern": [
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"],
+      ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Spain",
+    "aliases": ["espana", "españa"],
+    "code": "ES",
+    "continent": "Europe",
+    "pattern": [
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["gold", "gold", "gold", "gold", "gold", "gold", "gold", "gold"],
+      ["gold", "gold", "gold", "gold", "gold", "gold", "gold", "gold"],
+      ["gold", "gold", "gold", "gold", "gold", "gold", "gold", "gold"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Mexico",
+    "code": "MX",
+    "continent": "North America",
+    "pattern": [
+      ["green", "green", "white", "white", "white", "red", "red", "red"],
+      ["green", "green", "white", "white", "white", "red", "red", "red"],
+      ["green", "green", "white", "white", "white", "red", "red", "red"],
+      ["green", "green", "white", "white", "white", "red", "red", "red"],
+      ["green", "green", "white", "white", "white", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Brazil",
+    "code": "BR",
+    "continent": "South America",
+    "pattern": [
+      ["green", "green", "green", "green", "green", "green", "green", "green"],
+      ["green", "green", "yellow", "yellow", "yellow", "yellow", "green", "green"],
+      ["green", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "green"],
+      ["green", "green", "yellow", "yellow", "yellow", "yellow", "green", "green"],
+      ["green", "green", "green", "green", "green", "green", "green", "green"]
+    ]
+  },
+  {
+    "name": "Argentina",
+    "code": "AR",
+    "continent": "South America",
+    "pattern": [
+      ["sky", "sky", "sky", "sky", "sky", "sky", "sky", "sky"],
+      ["sky", "sky", "sky", "sky", "sky", "sky", "sky", "sky"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["sky", "sky", "sky", "sky", "sky", "sky", "sky", "sky"],
+      ["sky", "sky", "sky", "sky", "sky", "sky", "sky", "sky"]
+    ]
+  },
+  {
+    "name": "Chile",
+    "code": "CL",
+    "continent": "South America",
+    "pattern": [
+      ["blue", "blue", "white", "white", "white", "white", "white", "white"],
+      ["blue", "blue", "white", "white", "white", "white", "white", "white"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "code": "UA",
+    "continent": "Europe",
+    "pattern": [
+      ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"],
+      ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"],
+      ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"],
+      ["yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow"],
+      ["yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow"]
+    ]
+  },
+  {
+    "name": "Sweden",
+    "code": "SE",
+    "continent": "Europe",
+    "pattern": [
+      ["blue", "blue", "yellow", "yellow", "blue", "blue", "blue", "blue"],
+      ["blue", "blue", "yellow", "yellow", "blue", "blue", "blue", "blue"],
+      ["yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow"],
+      ["blue", "blue", "yellow", "yellow", "blue", "blue", "blue", "blue"],
+      ["blue", "blue", "yellow", "yellow", "blue", "blue", "blue", "blue"]
+    ]
+  },
+  {
+    "name": "Canada",
+    "code": "CA",
+    "continent": "North America",
+    "pattern": [
+      ["red", "red", "white", "white", "white", "white", "red", "red"],
+      ["red", "red", "white", "white", "white", "white", "red", "red"],
+      ["red", "red", "white", "white", "white", "white", "red", "red"],
+      ["red", "red", "white", "white", "white", "white", "red", "red"],
+      ["red", "red", "white", "white", "white", "white", "red", "red"]
+    ]
+  },
+  {
+    "name": "Austria",
+    "code": "AT",
+    "continent": "Europe",
+    "pattern": [
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Ireland",
+    "code": "IE",
+    "continent": "Europe",
+    "pattern": [
+      ["green", "green", "white", "white", "white", "white", "orange", "orange"],
+      ["green", "green", "white", "white", "white", "white", "orange", "orange"],
+      ["green", "green", "white", "white", "white", "white", "orange", "orange"],
+      ["green", "green", "white", "white", "white", "white", "orange", "orange"],
+      ["green", "green", "white", "white", "white", "white", "orange", "orange"]
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "aliases": ["swiss"],
+    "code": "CH",
+    "continent": "Europe",
+    "pattern": [
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "white", "white", "red", "red", "red"],
+      ["red", "red", "white", "white", "white", "white", "red", "red"],
+      ["red", "red", "red", "white", "white", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "United States",
+    "aliases": ["usa", "us", "america", "united states of america"],
+    "code": "US",
+    "continent": "North America",
+    "pattern": [
+      ["blue", "blue", "blue", "red", "white", "red", "white", "red"],
+      ["blue", "blue", "blue", "white", "red", "white", "red", "white"],
+      ["blue", "blue", "blue", "red", "white", "red", "white", "red"],
+      ["red", "white", "red", "white", "red", "white", "red", "white"],
+      ["white", "red", "white", "red", "white", "red", "white", "red"]
+    ]
+  },
+  {
+    "name": "Colombia",
+    "code": "CO",
+    "continent": "South America",
+    "pattern": [
+      ["yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow"],
+      ["yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow"],
+      ["yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow"],
+      ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "code": "VE",
+    "continent": "South America",
+    "pattern": [
+      ["yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow"],
+      ["yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow"],
+      ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Portugal",
+    "code": "PT",
+    "continent": "Europe",
+    "pattern": [
+      ["green", "green", "red", "red", "red", "red", "red", "red"],
+      ["green", "green", "red", "red", "red", "red", "red", "red"],
+      ["green", "green", "red", "red", "red", "red", "red", "red"],
+      ["green", "green", "red", "red", "red", "red", "red", "red"],
+      ["green", "green", "red", "red", "red", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "China",
+    "aliases": ["prc"],
+    "code": "CN",
+    "continent": "Asia",
+    "pattern": [
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["yellow", "yellow", "yellow", "red", "red", "red", "red", "red"],
+      ["yellow", "yellow", "yellow", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Japan",
+    "code": "JP",
+    "continent": "Asia",
+    "pattern": [
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["white", "white", "red", "red", "red", "white", "white", "white"],
+      ["white", "white", "red", "red", "red", "white", "white", "white"],
+      ["white", "white", "red", "red", "red", "white", "white", "white"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"]
+    ]
+  },
+  {
+    "name": "Finland",
+    "code": "FI",
+    "continent": "Europe",
+    "pattern": [
+      ["white", "white", "blue", "blue", "white", "white", "white", "white"],
+      ["white", "white", "blue", "blue", "white", "white", "white", "white"],
+      ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"],
+      ["white", "white", "blue", "blue", "white", "white", "white", "white"],
+      ["white", "white", "blue", "blue", "white", "white", "white", "white"]
+    ]
+  },
+  {
+    "name":"Ecuador",
+    "code": "EC",
+    "continent":"South America",
+    "pattern":[
+      ["yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow",  "yellow"],
+      ["yellow", "yellow", "sky", "sky",       "sky",       "sky",       "yellow", "yellow"],
+      ["blue",   "blue",    "gold", "gold",    "gold",      "gold",      "blue",   "blue"],
+      ["blue",   "blue",    "sky",  "sky",     "sky",       "sky",       "blue",   "blue"],
+      ["red",    "red",     "red",  "red",     "red",       "red",       "red",    "red"]
+    ]
+  },
+  {
+    "name": "Ivory Coast",
+    "aliases": ["cote d'ivoire", "côte d'ivoire"],
+    "code": "CI",
+    "continent": "Africa",
+    "pattern": [
+      ["orange", "orange", "orange", "white", "white", "green", "green", "green"],
+      ["orange", "orange", "orange", "white", "white", "green", "green", "green"],
+      ["orange", "orange", "orange", "white", "white", "green", "green", "green"],
+      ["orange", "orange", "orange", "white", "white", "green", "green", "green"],
+      ["orange", "orange", "orange", "white", "white", "green", "green", "green"]
+    ]
+  },
+  {
+    "name": "Mali",
+    "code": "ML",
+    "continent": "Africa",
+    "pattern": [
+      ["green", "green", "green", "yellow", "yellow", "red", "red", "red"],
+      ["green", "green", "green", "yellow", "yellow", "red", "red", "red"],
+      ["green", "green", "green", "yellow", "yellow", "red", "red", "red"],
+      ["green", "green", "green", "yellow", "yellow", "red", "red", "red"],
+      ["green", "green", "green", "yellow", "yellow", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Guinea",
+    "code": "GN",
+    "continent": "Africa",
+    "pattern": [
+      ["red", "red", "red", "yellow", "yellow", "green", "green", "green"],
+      ["red", "red", "red", "yellow", "yellow", "green", "green", "green"],
+      ["red", "red", "red", "yellow", "yellow", "green", "green", "green"],
+      ["red", "red", "red", "yellow", "yellow", "green", "green", "green"],
+      ["red", "red", "red", "yellow", "yellow", "green", "green", "green"]
+    ]
+  },
+  {
+    "name": "Ghana",
+    "code": "GH",
+    "continent": "Africa",
+    "pattern": [
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["gold", "gold", "gold", "gold", "gold", "gold", "gold", "gold"],
+      ["green", "green", "green", "green", "green", "green", "green", "green"],
+      ["green", "green", "green", "green", "green", "green", "green", "green"]
+    ]
+  },
+  {
+    "name": "Chad",
+    "code": "TD",
+    "continent": "Africa",
+    "pattern": [
+      ["blue", "blue", "blue", "yellow", "yellow", "red", "red", "red"],
+      ["blue", "blue", "blue", "yellow", "yellow", "red", "red", "red"],
+      ["blue", "blue", "blue", "yellow", "yellow", "red", "red", "red"],
+      ["blue", "blue", "blue", "yellow", "yellow", "red", "red", "red"],
+      ["blue", "blue", "blue", "yellow", "yellow", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Egypt",
+    "code": "EG",
+    "continent": "Africa",
+    "pattern": [
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["black", "black", "black", "black", "black", "black", "black", "black"],
+      ["black", "black", "black", "black", "black", "black", "black", "black"]
+    ]
+  },
+  {
+    "name": "India",
+    "code": "IN",
+    "continent": "Asia",
+    "pattern": [
+      ["orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange"],
+      ["orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["green", "green", "green", "green", "green", "green", "green", "green"],
+      ["green", "green", "green", "green", "green", "green", "green", "green"]
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "code": "ID",
+    "continent": "Asia",
+    "pattern": [
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"]
+    ]
+  },
+  {
+    "name": "Thailand",
+    "code": "TH",
+    "continent": "Asia",
+    "pattern": [
+      ["red", "red", "red", "red", "red", "red", "red", "red"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"],
+      ["white", "white", "white", "white", "white", "white", "white", "white"],
+      ["red", "red", "red", "red", "red", "red", "red", "red"]
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "code": "BD",
+    "continent": "Asia",
+    "pattern": [
+      ["green", "green", "green", "green", "green", "green", "green", "green"],
+      ["green", "green", "green", "green", "green", "green", "green", "green"],
+      ["green", "green", "green", "red", "red", "green", "green", "green"],
+      ["green", "green", "green", "green", "green", "green", "green", "green"],
+      ["green", "green", "green", "green", "green", "green", "green", "green"]
+    ]
+  },
+  {
+    "name": "Peru",
+    "code": "PE",
+    "continent": "South America",
+    "pattern": [
+      ["red", "red", "white", "white", "white", "white", "red", "red"],
+      ["red", "red", "white", "white", "white", "white", "red", "red"],
+      ["red", "red", "white", "white", "white", "white", "red", "red"],
+      ["red", "red", "white", "white", "white", "white", "red", "red"],
+      ["red", "red", "white", "white", "white", "white", "red", "red"]
+    ]
+  }
+]
